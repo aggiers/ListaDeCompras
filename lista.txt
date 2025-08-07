@@ -1,5 +1,14 @@
-- Morango
+Lista de frutas
+
 - Limão
 - Amora
 - Manga
 - Melancia
+
+Lista de mistura
+
+-Carne
+-Frango
+-Agatha
+-Peixe
+-Humana
