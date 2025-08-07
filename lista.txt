@@ -1,14 +1,14 @@
-Lista de frutas
+------- Lista de frutas
 
 - Limão
 - Amora
 - Manga
 - Melancia
 
-Lista de mistura
+------- Lista de mistura
 
--Carne
--Frango
--Agatha
--Peixe
--Humana
+- Carne
+- Frangos
+- Agatha
+- Peixe
+- Humana
